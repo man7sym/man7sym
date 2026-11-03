@@ -1,10 +1,10 @@
 ### Hi, I'm Youngmin Shim 👋
 
-Undergraduate at **DGIST**, School of Undergraduate Studies (Computer Science & Mechanical Engineering tracks), graduating 2027.
+Undergraduate at **DGIST**, School of Undergraduate Studies (Computer Science & Mechanical Engineering tracks), graduating Feb 2028.
 
 I like building things that move and react: robots, embedded systems, and interactive installations.
 
-**Interests:** bio-inspired flapping robots and novel actuators · control of underactuated and balancing systems · mechatronics with embedded controllers
+**Interests:** bio-inspired flapping robots and novel actuators · motion platforms and human–machine interaction · control of underactuated and balancing systems · mechatronics with embedded controllers
 
 ---
 
@@ -30,8 +30,8 @@ I like building things that move and react: robots, embedded systems, and intera
 
 - **DGroid** (IT club, DGIST) · Spring 2024 – present
 - **ROD** (robotics club, DGIST) · Spring 2026 – present · leading the self-balancing bicycle robot
-- **VodkaGames** (game development & board game club, DGIST) · Spring 2024 – present · executive board 2025 · three game jams
-- **Hyeonpung Jeonsan** (computer science club, DGIST) · Fall 2024 – present
+- **VodkaGames** (game development & board game club, DGIST) · Spring 2024 – present · executive board 2025 · all five club game jams (2024–2026)
+- **BLACKWIND** (computer science club, DGIST) · Fall 2024 – present
 - **RGB** (band, DGIST) · electric guitar 🎸
 - **D-Orbital** (physics club, DGIST) · Fall 2024 – 2025 · co-authored a poster on the rotational inertia of rigid bodies and fluids
 - 🏆 **Robot Battle Winner**, IST-TECH IT ARENA 2025 (joint ROD/DGroid team; I did the CAD modeling)
@@ -42,4 +42,4 @@ I like building things that move and react: robots, embedded systems, and intera
 
 `C++` `Python` `Arduino` `ESP32` `Raspberry Pi` `Fusion 360` `Godot` · soldering and perfboard prototyping
 
-📫 shimyoungmin9@gmail.com
+📫 man7sym@dgist.ac.kr · shimyoungmin9@gmail.com
