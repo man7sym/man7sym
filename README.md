@@ -28,9 +28,12 @@ I like building things that move and react: robots, embedded systems, and intera
 
 #### Activities
 
-- **DGroid** (IT club, DGIST) · 2024 – present
-- **ROD** (robotics club, DGIST) · 2026 – present · leading the self-balancing bicycle robot
-- **D-Orbital** (physics club, DGIST) · 2024 – 2025 · co-authored a poster on the rotational inertia of rigid bodies and fluids
+- **DGroid** (IT club, DGIST) · Spring 2024 – present
+- **ROD** (robotics club, DGIST) · Spring 2026 – present · leading the self-balancing bicycle robot
+- **VodkaGames** (game development & board game club, DGIST) · Spring 2024 – present · executive board 2025 · three game jams
+- **Hyeonpung Jeonsan** (computer science club, DGIST) · Fall 2024 – present
+- **RGB** (band, DGIST) · electric guitar 🎸
+- **D-Orbital** (physics club, DGIST) · Fall 2024 – 2025 · co-authored a poster on the rotational inertia of rigid bodies and fluids
 - 🏆 **Robot Battle Winner**, IST-TECH IT ARENA 2025 (joint ROD/DGroid team; I did the CAD modeling)
 
 ---
